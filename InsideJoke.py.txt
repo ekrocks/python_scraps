@@ -1,0 +1,16 @@
+class TheWorstGame:
+    '''
+    This game is literally the worst game I made to fuck you up bitch
+    '''
+    def main_menu:
+        user_choice = int(input("Press 1 -> Play | Press 2 -> Highscores" + 
+                                " | Press 3 -> Credits")
+        return user_choice
+    def play_game:
+        user_choice = TheWorstGame.main_menu
+        if user_choice == 1:
+            return "You lost the game bitch"
+        elif user_chouce == 2:
+            return "Only the chosen can see the highscores"
+        elif user_choice == 3:
+            return "Made by -Elliot Kim-"
