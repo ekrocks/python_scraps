@@ -1,4 +1,2 @@
-# python_scraps
-Just some foolish stuff on python
-
-Its just stash of my weird python work
+#Its just stash of my weird python work
+Ill probably post more stuff on since I realised how this thing works lol
